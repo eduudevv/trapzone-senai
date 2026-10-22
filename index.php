@@ -10,11 +10,11 @@
 <aside id="side">
   <a class="logo" href="#/">TRAP<span>ZONE</span></a>
   <nav>
-    <a href="#/" data-r="home">Início</a>
-    <a href="#/explorar" data-r="explorar">Explorar</a>
-    <a href="#/artistas" data-r="artistas">Artistas</a>
-    <a href="#/playlists" data-r="playlists">Playlists</a>
-    <a href="#/favoritos" data-r="favoritos">Favoritos</a>
+    <a href="#/" data-r="home">🏠 Início</a>
+    <a href="#/explorar" data-r="explorar">🧭 Explorar</a>
+    <a href="#/artistas" data-r="artistas">🎤 Artistas</a>
+    <a href="#/playlists" data-r="playlists">📀 Playlists</a>
+    <a href="#/favoritos" data-r="favoritos">♥ Favoritos</a>
   </nav>
   <div id="userbox"></div>
 </aside>

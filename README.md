@@ -5,10 +5,9 @@ Streaming de **Trap Brasileiro**. Projeto Express (HTML, CSS, JavaScript e PHP +
 **Tema:** Trap BR / cultura urbana nacional
 
 **Integrantes:**
-- Eduardo Rio
-- João Gabriel
-- Heitor
-- Cauã Toledo
+- Nome 1
+- Nome 2
+- Nome 3
 
 ## Funcionalidades
 Home · 6 categorias (10+ faixas cada) · detalhe · favoritos (no banco) · busca/filtro sem recarregar ·
